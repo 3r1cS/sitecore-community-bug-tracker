@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreCommunityBugTracker.Cli", "SitecoreCommunityBugTracker.Cli\SitecoreCommunityBugTracker.Cli.csproj", "{410A7BEE-543C-45EB-95BC-E007E1D3399A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410A7BEE-543C-45EB-95BC-E007E1D3399A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410A7BEE-543C-45EB-95BC-E007E1D3399A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410A7BEE-543C-45EB-95BC-E007E1D3399A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410A7BEE-543C-45EB-95BC-E007E1D3399A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B161696-F3CB-4E68-B01C-725CBBBEB929}
+	EndGlobalSection
+EndGlobal
